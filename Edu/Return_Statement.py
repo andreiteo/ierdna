@@ -16,3 +16,8 @@ asteapta_rezultat = int(input("Ce numar vrei sa ridici la cub? "))
 
 cubul_final = cube(asteapta_rezultat)
 print(cubul_final)
+
+
+
+#DUPA RETURN NU MAI POTI SA MAI PUI COD IN FUNCTIE,return trebuie sa fie ultima
+#linie a functiei

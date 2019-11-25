@@ -11,4 +11,4 @@ def putere(numar_baza, puterea):
     return result
 
 
-print(putere(3, 270))            
+print(putere(3, 270))

@@ -12,3 +12,9 @@ def get_file_ext(filename):
 
 def roll_dice(num):
     return random.randint(1, num)
+
+
+
+rezultat = (roll_dice(int(input("cate fete are zarul? "))))
+
+print("Ai dat: ", rezultat)
